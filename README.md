@@ -71,6 +71,9 @@ Vim workshop hosted by ACSU.
     - ctrl-A ctrl-X
     - windows, tabs, and buffers
     - registers
+        - "ay
+        - "ap
+        - :registers
     - piping into vim
         - ps aux | vim -
     - ctrl-xe
@@ -84,11 +87,11 @@ Vim workshop hosted by ACSU.
 
     - macros
         - qq, @q, @@
-        - reg
         - increment list
         - ocaml copy paste
         - reversing words
         - recursive macros
+
     - vimrc + options
     - plugins
         - easy-motion
