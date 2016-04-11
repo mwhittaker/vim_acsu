@@ -1,0 +1,3 @@
+emacs is truly a universal tool! You can use emacs to edit almost any type of
+file! For example, emacs can be used to edit this text file very easily. Let's
+use emacs to fix a couple of typos.
